@@ -39,4 +39,11 @@ Players will be able to get a brief explaination from the instruction section of
 ![Image of Game](https://people.rit.edu/zxl4706/media/screenshot1.png)
 ![Image of Game](https://people.rit.edu/zxl4706/media/screenshot2.png)
 
-      
+## Developer
+
+Zen Lin: GDD 2nd Year at RIT
+Interest: Art and Game Design
+Skillset: c#, photoshop, illustrator
+Current job goal: Technical Artist at Gaming Industry
+
+
