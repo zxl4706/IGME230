@@ -23,6 +23,5 @@ Game Proposal for Shape Fits All
   Gameplay
   
     Mechanics
-    
       For the main objective of the game, players just have to be able to keep up with the pace and difficulty level that they are on. One added feature to hint the players as to what rhythm they should sync to is the slight vibration animation of the player's polygon. Other than that, it really just depends on the reaction and mental process speed of each players.
       
