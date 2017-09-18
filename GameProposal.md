@@ -41,9 +41,12 @@ Players will be able to get a brief explaination from the instruction section of
 
 ## Developer
 
-*Zen Lin: GDD 2nd Year at RIT
-*Interest: Art and Game Design
-*Skillset: c#, photoshop, illustrator
-*Current job goal: Technical Artist at Gaming Industry
+Zen Lin: GDD 2nd Year at RIT
+
+Interest: Art and Game Design
+
+Skillset: c#, photoshop, illustrator
+
+Current job goal: Technical Artist at Gaming Industry
 
 
