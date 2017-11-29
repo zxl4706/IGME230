@@ -26,6 +26,8 @@ I think that this game can go simple in terms of it's graphics style. It can be 
     
 For the main objective of the game, players just have to be able to keep up with the pace and difficulty level that they are on. One added feature to hint the players as to what rhythm they should sync to is the slight vibration animation of the player's polygon. Other than that, it really just depends on the reaction and mental process speed of each players.
 
+Player would have to first be able to interchange between different polygons so they could match the ones that have spawned onto the screen and destroy them so the player would not lose health. 
+
 ### Controls
 
 Players will be using WASD or Arrow Keys to change into whatever polygon shape that they want. It should be entirely keyboard and for mobile version there should be a section for touch screen with the four shapes to change into.
