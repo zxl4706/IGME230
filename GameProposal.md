@@ -2,7 +2,7 @@
 
 ## High Concept
 
-As different polygons comes to the player's polygon in the middle of the screen, the player have to quickly his/her polygon shape to match the ones that are about to touch him/her to stay alive!
+As different polygons comes to the player's polygon in the middle of the screen, the player have to quickly his/her polygon shape to match the ones that are about to touch the defensive objective to stay alive!
 
 ## Genre
     
